@@ -1,0 +1,5 @@
+Pertanyaan percobaan 1:
+1. Inisialisasi: i = 1; kondisi: i <= 10; update: i++
+2. Variabel tertinggi diinisialisasi dengan 0 dan terendah dengan 100 karena diasumsikan nilai mahasiswa berada di antara 0–100. Nilai awal tersebut berfungsi sebagai batas ekstrem agar nilai pertama yang dimasukkan pasti bisa menggantikan nilai awal saat dibandingkan. Jika tertinggi diinisialisasi 100 dan terendah 0, maka tidak ada nilai yang lebih besar dari 100 atau lebih kecil dari 0, sehingga variabel tidak akan berubah dan hasil akhir menjadi salah.
+3. Kode program tersebut berfungsi untuk menentukan nilai tertinggi dan terendah dari beberapa data yang dimasukkan. Alur kerjanya yaitu: setiap kali user memasukkan sebuah nilai, program membandingkannya dengan nilai tertinggi dan terendah yang sudah ada sebelumnya. Jika nilai baru lebih besar dari tertinggi, maka nilai tersebut disimpan sebagai tertinggi yang baru. Sebaliknya, jika nilai baru lebih kecil dari terendah, maka nilai tersebut disimpan sebagai terendah yang baru.
+4. 
