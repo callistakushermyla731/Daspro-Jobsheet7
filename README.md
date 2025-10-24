@@ -8,3 +8,9 @@ Pertanyaan percobaan 2:
    b. continue : jika nilai yang dimasukkan tidak valid (kurang dari 0 atau lebih dari 100), program akan menampilkan pesan “Nilai  tidak valid. Masukkan lagi nilai yang valid!” lalu mengabaikan proses perhitungan berikutnya untuk nilai itu, dan kembali meminta input berikutnya.
 2. Sintaks i++ dituliskan di akhir perulangan while karena fungsinya adalah untuk menaikkan nilai penghitung setelah satu kali proses perulangan selesai dijalankan. Jika i++ dituliskan di awal perulangan, maka nilai i akan langsung bertambah sebelum perulangan dijalankan. Akibatnya, data pertama atau data mahasiswa ke-1 tidak akan diproses karena perulangan dimulai dari nilai i yang sudah bertambah.
 3. 19 kali
+
+Pertanyaan percobaan 3:
+1. Tidak dilakukan perulangan / 0 kali
+2. Ketika user menginput “batal” pada nama pelanggan
+3. Perulangan akan terus dijalankan
+4. DO-WHILE mengeksekusistatementnya terlebih dahulu, lalu mengevaluasi kondisi. Selama kondisibernilai TRUE, maka perulangan akan terus dijalankan. Yang menentukan apakah perulangan berhenti hanyalah kondisi logika di dalam blok perintahnya, sehingga tidak dibutuhkan variabel inisialisasi atau update, karena perulangannya ditentukan oleh input user, bukan ditentukan oleh penghitung angka
